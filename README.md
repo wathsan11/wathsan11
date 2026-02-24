@@ -15,7 +15,7 @@
 ## 🧠 Tech Stack
 
 ### 👨‍💻 Programming
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Python]([https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python](https://www.python.org/))
 ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
