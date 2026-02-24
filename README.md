@@ -68,7 +68,7 @@
 ---
 
 ## 📫 Connect With Me
-🔗 LinkedIn: www.linkedin.com/in/wathsan-induwara
+🔗 LinkedIn: www.linkedin.com/in/wathsan-induwara  
 📧 Email: wathsaninduwara@gmail.com
 
 ---
