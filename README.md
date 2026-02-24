@@ -27,7 +27,7 @@
 ![NLP](https://img.shields.io/badge/NLP-yellow?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer-Vision-blueviolet?style=for-the-badge)
 ![Image Processing](https://img.shields.io/badge/Image-Processing-informational?style=for-the-badge)
-![DSP](https://img.shields.io/badge/Digital-Signal-Processing-red?style=for-the-badge)
+[![DSP](https://img.shields.io/badge/Digital%20Signal%20Processing-red?style=for-the-badge)](https://en.wikipedia.org/wiki/Digital_signal_processing)
 
 ### ⚙️ DevOps & MLOps
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
