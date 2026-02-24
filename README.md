@@ -48,8 +48,6 @@ Passionate about integrating AI/ML and DevOps/MLOps to deliver intelligent, effi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wathsan11&show_icons=true&count_private=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wathsan11&layout=compact&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wathsan11&theme=tokyonight" />
 </p>
 
