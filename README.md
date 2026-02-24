@@ -15,12 +15,12 @@
 ## 🧠 Tech Stack
 
 ### 👨‍💻 Programming
-![Python]([https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python](https://www.python.org/))
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![Assembly](https://img.shields.io/badge/Assembly-black?style=for-the-badge)
-![Verilog](https://img.shields.io/badge/Verilog-orange?style=for-the-badge)
+[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)](https://isocpp.org/)
+[![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)](https://www.java.com/)
+[![Assembly](https://img.shields.io/badge/Assembly-black?style=for-the-badge)](https://en.wikipedia.org/wiki/Assembly_language)
+[![Verilog](https://img.shields.io/badge/Verilog-orange?style=for-the-badge)](https://en.wikipedia.org/wiki/Verilog)
 
 ### 🤖 AI / ML
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge)
