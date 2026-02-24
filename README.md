@@ -4,11 +4,7 @@
 ---
 
 ## 🚀 About Me
-🎓 Engineering Undergraduate passionate about building intelligent systems  
-🤖 Currently exploring **Machine Learning, NLP, Computer Vision & Image Processing**  
-⚙️ Interested in **MLOps + DevOps for scalable AI**  
-💡 Love combining **AI with Full-Stack Development**  
-🌱 Always learning, always building  
+AI/ML enthusiast with expertise in Machine Learning, specializing in Supervised, Unsupervised, and Reinforcement Learning, as well as Neural Networks. Currently exploring Natural Language Processing, Image Processing, Computer Vision, and Digital Signal Processing (DSP) to build intelligent and real-world AI solutions.<br>Skilled in DevOps practices including Docker, Jenkins, Ansible, Terraform, AWS EC2, Git, and GitHub Actions, enabling the deployment of scalable and production-ready AI systems.<br>Full-Stack development experience with Java, Spring Boot, React, Firebase, Flutter, and databases such as MySQL, PostgreSQL, and MongoDB, enabling end-to-end application development.<br>Also proficient in low-level programming and hardware description languages, including Assembly and Verilog, providing a strong foundation in computing systems and embedded AI applications.<br>Passionate about integrating AI/ML and DevOps/MLOps to deliver intelligent, efficient, and deployable solutions. 
 
 ---
 
