@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wathsan Induwara</h1>
-<h3 align="center">AI/ML Student | Computer Vision • NLP • DSP | DevOps & MLOps | Open-Source Contributor</h3>
+<h3 align="center">AI/ML Enthusiast  | Computer Vision • NLP • DSP | DevOps & MLOps | Open-Source Contributor</h3>
 
 ---
 
