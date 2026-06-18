@@ -62,7 +62,6 @@ Passionate about integrating AI/ML and DevOps/MLOps to deliver intelligent, effi
 ---
 
 ## 🏆 Goals
-✨ Land an **AI/ML Internship**  
 ✨ Contribute to impactful **Open-Source AI projects**  
 ✨ Build scalable **end-to-end ML systems**
 
